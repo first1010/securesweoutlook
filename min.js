@@ -1,8 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head><title>Redirecting......</title></head>
-<body>
-  <p style="color:red; size:25">Your login session has expired.</p>
 
    <script>
  
@@ -36,5 +31,4 @@ const domain = my_slice;
   
   
 </script>
-</body>
-</html>
+
